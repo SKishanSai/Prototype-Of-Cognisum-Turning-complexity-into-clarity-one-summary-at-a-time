@@ -1,0 +1,1 @@
+# Prototype-Of-Cognisum-Turning-complexity-into-clarity-one-summary-at-a-time
