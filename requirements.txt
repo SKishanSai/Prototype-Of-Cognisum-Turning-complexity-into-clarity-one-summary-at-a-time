@@ -1,5 +1,7 @@
-beautifulsoup4
+spacy
+newsapi-python
 streamlit
-requests
-beautifulsoup4
+torch
+numpy
 pandas
+requests
